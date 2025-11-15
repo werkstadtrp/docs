@@ -1,8 +1,8 @@
-# **Regelwerk Chemnitz City**
+# **Werkstadt RP Regelwerk**
 
 *Ein Verstoß gegen die Regeln kann einen temporären oder permanenten Ausschluss aus der Community nach sich ziehen.*
 
-Das Chemnitz City Team behält sich das Recht vor, jede Person der Community auszuschließen.
+Das Werkstadt RP Team behält sich das Recht vor, jede Person der Community auszuschließen.
 
 ## **§ 1 Allgemeine Regeln**
 - Das Regelwerk muss stets eingehalten werden! Das Ausnutzen von Lücken im Regelwerk wird bestraft.

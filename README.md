@@ -1,6 +1,6 @@
 # TokoVoiP_v2 Documentation
 
-https://docs.chemnitzcityrp.de
+https://regeln.werkstadtrp.de
 
 ## Local Development
 
