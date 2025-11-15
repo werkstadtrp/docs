@@ -4,14 +4,13 @@ const nextra = require('nextra')({
   staticImage: true,
 })
 
-module.exports = nextra({
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
     unoptimized: true,
   },
-  experimental: {
-    allowedDevOrigins: [
-      'http://localhost:4000',
-      'https://regeln.werkstadtrp.de',
-    ],
-  },
-})
+  turbopack: {},
+  allowedDevOrigins: ['http://localhost:4000', 'regeln.werkstadtrp.de'],
+}
+
+module.exports = nextra(nextConfig)
